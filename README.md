@@ -18,13 +18,13 @@ R en versión 2022.02.3
 
 Es necesario tener instalados los siguientes paquetes de R: 
 
-* [reshape2]
-* [wordcloud]
-* [quanteda]
-* [readtext]
-* [tidytext]
-* [rjson]
-* [dplyr]
-* [textdata]
-* [ggplot2]
+* reshape2
+* wordcloud
+* quanteda
+* readtext
+* tidytext
+* rjson
+* dplyr
+* textdata
+* ggplot2
 
